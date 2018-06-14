@@ -3,9 +3,13 @@
 }
 
 .flat-title {
-
+    margin-top: 10px;
+    font-weight: bold;
 }
 
 .flat-picture{
-    height: 400px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+
 }

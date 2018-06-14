@@ -19,7 +19,9 @@ class App extends Component {
     return (
       <div>
         <Flat flat={flat}/>
+        <Flat flat={flat}/>
       </div>
+      
     );
   }
 }
