@@ -16,3 +16,9 @@
   position: sticky;
   background-color: black;
 }
+
+.flats {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}

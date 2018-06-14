@@ -29,6 +29,8 @@ class App extends Component {
           <div class="flats">
               <Flat flat={flat}/>
               <Flat flat={flat}/>
+              <Flat flat={flat}/>
+             
           </div>  
         </div>
         <div class="map">
